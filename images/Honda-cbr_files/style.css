@@ -1,0 +1,24 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+.bgheader{
+    background: #264653;
+}
+.fontsize{
+    font-size: 14px;
+    font-weight: 300;
+}
+.gray{
+    filter: grayscale(100%);
+}
+.psn{
+    position: relative;
+    top: -30px;
+}
+.fontbold{
+    font-weight: bold;
+}
+.subheight{
+    height: 300px;
+}
